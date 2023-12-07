@@ -2,7 +2,7 @@
 
 Soy un Data Engineer apasionado por transformar datos en conocimiento y tomar decisiones informadas. Mi objetivo es construir sistemas escalables y eficientes para el procesamiento y análisis de datos. A lo largo de mi carrera, he trabajado en diversos proyectos y tecnologías relacionadas con la ingeniería de datos.
 
-![]([https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76753453](https://credentials.databricks.com/3950903e-999d-4424-b4c4-0f212e685d65)) ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58987480)
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76753453) ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58987480)
 
 https://learn.microsoft.com/api/credentials/share/es-mx/luisrodrigoespadahidalgo-7885/C22751F5A316B91C?sharingId=EC200538774C80BB
 
