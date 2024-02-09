@@ -4,7 +4,8 @@ Soy un Data Engineer apasionado por transformar datos en conocimiento y tomar de
 
 ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76753453) 
 ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82756667)
-1[](https://github.com/LuisRodrigoEspadaHIdalgo/LuisRodrigoEspadaHIdalgo/blob/main/microsoft-certified-azure-data-fundamentals%20(1).png?raw=true)
+![](https://github.com/LuisRodrigoEspadaHIdalgo/LuisRodrigoEspadaHIdalgo/blob/main/microsoft-certified-azure-data-fundamentals%20(2).png?raw=true)
+![](https://github.com/LuisRodrigoEspadaHIdalgo/LuisRodrigoEspadaHIdalgo/blob/main/microsoft-certified-azure-fundamentals%20(2).png?raw=true)
 
 
 ## Experiencia Profesional
