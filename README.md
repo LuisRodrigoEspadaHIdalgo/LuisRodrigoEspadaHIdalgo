@@ -1,6 +1,6 @@
 # Hola, soy Lucho
 
-Soy un Data Engineer apasionado por transformar datos en conocimiento y tomar decisiones informadas. Mi objetivo es construir sistemas escalables y eficientes para el procesamiento y análisis de datos. A lo largo de mi carrera, he trabajado en diversos proyectos y tecnologías relacionadas con la ingeniería de datos.
+Soy un Data Engineer apasionado por transformar datos en conocimiento y tomar decisiones informadas. Mi objetivo es construir sistemas escalables y eficientes para el procesamiento y análisis de datos. Trabajo sobre la platadorma Azure, usando ADF, ADB, ADLS entre otros servicios.
 
 ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76753453) 
 ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82756667)
