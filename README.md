@@ -9,6 +9,9 @@ Soy un Data Engineer apasionado por transformar datos en conocimiento y tomar de
 
 
 ## Experiencia Profesional
+
+## Extras
+1[](https://www.hackerrank.com/profile/luisrodrigoespa1)
 <!--
 ### Data Engineer en NTT Data
 *Fecha de Inicio - Fecha de Finalización*
