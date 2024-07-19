@@ -3,7 +3,7 @@
 Soy un Data Engineer apasionado por transformar datos en conocimiento y tomar decisiones informadas. Mi objetivo es construir sistemas escalables y eficientes para el procesamiento y análisis de datos. Trabajo sobre la platadorma Azure, usando ADF, ADB, ADLS entre otros servicios.
 
 ![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/76753453) 
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82756667)
+![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/106766078)
 ![](https://github.com/LuisRodrigoEspadaHIdalgo/LuisRodrigoEspadaHIdalgo/blob/main/microsoft-certified-azure-data-fundamentals%20(2).png?raw=true)
 ![](https://github.com/LuisRodrigoEspadaHIdalgo/LuisRodrigoEspadaHIdalgo/blob/main/microsoft-certified-azure-fundamentals%20(2).png?raw=true)
 
